@@ -21,11 +21,6 @@ public class duck_num {
                 }
             }
            
-            
+        }   
         }
-        
-
-
-    }
-    
-}
+        }

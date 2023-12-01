@@ -25,7 +25,4 @@ public class Neon_num {
         {
             System.out.println("this is not a neon number:-");
         }
-
-    }
-    
-}
+        }}

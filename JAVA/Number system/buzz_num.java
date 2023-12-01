@@ -5,6 +5,7 @@ public class buzz_num {
         Scanner s=new Scanner(System.in);
         System.out.println("enter a number");
         a=s.nextInt();
+        
         if(a%7==0)
         {
             System.out.println("it is a buzz number:-");
