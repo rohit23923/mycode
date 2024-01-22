@@ -1,0 +1,166 @@
+.nav{
+    display: flex;
+    justify-content: end;
+
+}
+.nav_item{
+    margin-right: 10px;
+}
+.upper{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}    
+.heading{
+    font-size: 30px;
+    width: 230px;
+    
+    margin-top: 10px;
+}
+.intro{
+    font-size: small;
+    width: 400px;
+    
+    margin-top:10px;
+}
+.down_bt{
+    background-color: rgb(248, 101, 101);
+    
+    margin-top:10px;
+}
+.my_img{
+    border: 1px black solid;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    background-image: url(./WhatsApp\ Image\ 2023-05-17\ at\ 21.36.38.jpg);
+    background-size: cover;
+} 
+
+.second_main{
+    background-color: rgb(188, 245, 226);
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 250px;
+}
+
+.second_nav{
+    display: flex;
+   justify-content: space-between;
+}
+.box{
+    margin-top: 10px;
+}
+.post_detail{
+    background-color: white;
+    width: 350px;
+    padding-left:50px;
+    padding-top: 30px;
+    margin-top: 20px;
+}
+.font_main{
+    font-size: 20px;
+    width: 280px;
+    height: 40px;
+}
+.sec_m{
+    width: 200px;
+    
+}
+
+.thi_m{
+    width: 300px;
+    padding-bottom: 10px;
+    
+}
+
+.s_t_m{
+    display: flex;
+}
+
+.se_p_d{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.box_t{
+    width: 400px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.third_main{
+    background-color: white;
+    padding-left: 100px;
+    
+}
+
+.t_f_i{
+    border: 1px black solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background-image: url(https://www.shutterstock.com/image-vector/dashboard-ui-data-hud-diagram-260nw-1913577490.jpg);
+}
+
+.t_s_i{
+    border: 1px black solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background-image: url(https://t3.ftcdn.net/jpg/02/73/22/74/360_F_273227473_N0WRQuX3uZCJJxlHKYZF44uaJAkh2xLG.jpg);
+}
+
+.t_t_i{
+    border: 1px black solid;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    background-image: url(https://5.imimg.com/data5/SELLER/Default/2022/12/FN/ZL/OJ/3866941/desktop-computer.jpg);
+}
+
+.comb{
+    margin-top: 20px;
+}
+
+.img_font_flex{
+    display: flex;
+    border-bottom: 1px rgba(123, 117, 117, 0.766) solid;
+}
+
+.t_f{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.font_description{
+    font-size: 15px;
+    margin-top: 10px;
+    width: 330px;
+}
+
+.links{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.fb{
+    background-image:url(./fb.png);
+}
+.insta{
+    background-image: url(./insta.png);
+}
+.twiter{
+    background-image: url(./Group.png);
+}
+.linkdin{
+    background-image: url(./Linkedin.png);
+}
+
+.logo_img{
+    width: 30px;
+    height: 30px;
+}

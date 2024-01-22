@@ -1,0 +1,24 @@
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.item{
+    border: 3px skyblue solid;
+    padding-left: 50%;
+}
+
+#header{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+#menu{
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+#footer{
+    grid-column-start: 2;
+    grid-column-end: 4;
+}

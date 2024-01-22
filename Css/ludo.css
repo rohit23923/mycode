@@ -1,0 +1,145 @@
+.main{
+    margin-left: 300px;
+}
+.row_1st{
+    display: flex;
+}
+
+.green_box{
+    width: 240px;
+    height: 240px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.in_player_box{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.goti_box{
+    height: 40px;
+    width: 40px;
+    border: 1px black solid;
+    border-radius: 15%;
+    margin: 15px;
+}
+
+.green_goti{
+    background-color: green;
+}
+
+.sbox_green{
+    background-color: green;
+}
+
+.center_1st{
+    width: 120px;
+    height: 240px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sbox{
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.right_1st{
+    width: 240px;
+    height: 240px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red_goti{
+    background-color: red;
+}
+
+.sbox_red{
+    background-color: red;
+}
+
+.row_2nd{
+    display: flex;
+}
+
+.left_2nd{
+    width: 240px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.center_2nd{
+    width: 120px;
+    height: 120px;
+    /* box-sizing: border-box;
+    border-left: 60px solid green;
+    border-top: 60px solid red;
+    border-right: 60px solid blue;
+    border-bottom: 60px solid yellow; */
+    background-image: conic-gradient(red 0deg,red 45deg,blue 45deg,blue 135deg, yellow 135deg,yellow 225deg,green 215deg,green 315deg,red 315deg);
+}
+
+.row_3rd{
+    display: flex;
+}
+
+.right_2nd{
+    width: 240px;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left_3rd{
+    width: 240px;
+    height: 240px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.yellow_goti{
+    background-color: yellow;
+}
+
+.sbox_yellow{
+    background-color: yellow;
+}
+
+.center_3rd{
+    width: 120px;
+    height: 240px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.right_3rd{
+    width: 240px;
+    height: 240px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue_goti{
+    background-color: blue;
+}
+
+.sbox_blue{
+    background-color: blue;
+}
